@@ -1,0 +1,8 @@
+java 
+int budget = 20;
+        System.out.println(budget > 30 && budget < 80);
+        
+        int fatherBudget = budget + 20;
+        
+        System.out.println(fatherBudget > 30 && fatherBudget < 80);
+                            // true           ,     true
